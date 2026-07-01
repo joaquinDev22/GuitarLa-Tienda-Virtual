@@ -1,6 +1,7 @@
-# GuitarLa-Tienda-Virtual-
+# GuitarLa-Tienda-Virtual
+
 # Descripción Detallada
-- GuitarLA es una plataforma de e-commerce que simula la venta de instrumentos musicales. Los usuarios pueden explorar la colección disponible, añadir artículos a un carrito de compras persistente, gestionar cantidades unitarias respetando reglas comerciales específicas y calcular costes consolidados de manera automatizada. El comportamiento y la lógica del carrito de compras están encapsulados en un Custom Hook modular (useCart), el cual gestiona la lectura y escritura en almacenamiento local.
+GuitarLA es una plataforma de e-commerce que simula la venta de instrumentos musicales. Los usuarios pueden explorar la colección disponible, añadir artículos a un carrito de compras persistente, gestionar cantidades unitarias respetando reglas comerciales específicas y calcular costes consolidados de manera automatizada. El comportamiento y la lógica del carrito de compras están encapsulados en un Custom Hook modular (useCart), el cual gestiona la lectura y escritura en almacenamiento local.
 
 # Características Claves
 - Carrito en cabecera: Componente flotante que detalla los artículos seleccionados, cantidades y subtotales en tiempo real.
